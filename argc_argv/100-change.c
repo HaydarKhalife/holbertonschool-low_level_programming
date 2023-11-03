@@ -11,14 +11,13 @@ int main(int argc, char *argv[])
     }
 
     int cents = atoi(argv[1]);
+    int coins = 0;
 
     if (cents < 0)
     {
         printf("0\n");
         return (0);
     }
-
-    int coins = 0;
 
     while (cents > 0)
     {
