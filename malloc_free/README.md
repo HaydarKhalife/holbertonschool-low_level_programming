@@ -1,0 +1,1 @@
+java is better as no need for all this shit
