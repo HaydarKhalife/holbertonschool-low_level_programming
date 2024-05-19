@@ -7,6 +7,7 @@
   * @b: The binary string to converts
   *
   * Return: The positive number converted from a binary
+
   */
 unsigned int binary_to_uint(const char *b)
 {
